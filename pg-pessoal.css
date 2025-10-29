@@ -1,0 +1,77 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: sans-serif;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(190, 142, 0);
+    font-family:'Trebuchet MS';
+}
+
+.title{
+    margin: 0px;
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+
+.jobTitle{
+    padding-bottom: 10px;
+}
+
+h3{
+    color: rgb(23, 136, 0);
+    margin: 5px;
+}
+
+.majorText{
+    margin-left: 30px;
+}
+
+.majorText p{
+    padding-left: 50px;
+    margin-bottom: 30px;
+}
+
+.content{
+    margin-bottom: 30px;
+    font-size: 16px;
+    margin-left: 50px;
+}
+
+.cabeçalho{
+    text-align: center;
+    background-color: rgb(177, 177, 177);
+    width: 100%;
+    height: auto;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-style: solid;
+    border-color: grey;
+    border-bottom-color: black;
+}
+
+.sectionText p{
+    padding-left: 50px;
+    font-size: 10px;
+    margin-bottom: 15px;
+    margin-top: 0px;
+}
+.sectionText h4{
+    padding-left: 50px;
+    color: rgb(0, 46, 172);
+    margin-bottom: 0px;
+    margin-top:8px;
+}
+
+#skills{
+    color: rgb(170, 0, 0);
+}
+#design{
+    color: rgb(0, 0, 100);
+}
